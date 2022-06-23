@@ -2,14 +2,21 @@ body {
   background-image: url("assets/background.jpg");
 }
 
+h1 {
+  font-size: 2em;
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
 .menu {
   margin: auto;
   text-align: center;
 }
 
-h1 {
+.heading-center {
   text-align: center;
-  text-decoration: underline;
 }
 
 img {
